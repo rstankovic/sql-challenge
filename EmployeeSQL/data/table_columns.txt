@@ -1,0 +1,35 @@
+departments.csv:
+    dept_no
+    dept_name
+
+dept_emp.csv:
+    emp_no
+    dept_no
+    from_date
+    to_date
+
+dept_manager.csv:
+    dept_no
+    emp_no
+    from_date
+    to_date
+
+employees.csv:
+    emp_no
+    birth_date
+    first_name
+    last_name
+    gender
+    hire_date
+
+salaries.csv:
+    emp_no
+    salary
+    from_date
+    to_date
+
+titles.csv:
+    emp_no
+    title
+    from_date
+    to_date
